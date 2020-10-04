@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Yeo's Resume"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,15 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Jiyoung Jenna Yeo"
+resume_title:                   "data-driven business operator in tourism & hospitality"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "jiyoung.jenna.yeo@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "82-10-3400-6795"
+resume_contact_address:         "Centum 1-ro 28, Haeundae, Busan, Republic of Korea"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
@@ -37,8 +37,8 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
+# resume_section_recognition:     true
+# resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
 
